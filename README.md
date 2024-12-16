@@ -38,4 +38,5 @@ Minha stack principal inclui Java e Spring Boot para o back-end, além de JavaSc
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-mhapessoal@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mhapessoal@gmail.com)](mailto:mhapessoal@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contato@matheushenrique.dev.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@matheushenrique.dev.br)](mailto:contato@matheushenrique.dev.br)
 [![GitHub](https://img.shields.io/github/followers/masteroflie?label=follow&style=social)](https://github.com/MasterOfLie)
